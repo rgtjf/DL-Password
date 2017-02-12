@@ -17,19 +17,20 @@
 - paper: https://www.ece.cmu.edu/~lbauer/papers/2016/usenixsec2016-neural-passwords.pdf
 
 ## Password Analysis of 2 Million Hijacked Password
-blog: http://www.datasciencecentral.com/profiles/blogs/password-and-hijacked-email
-github: https://github.com/jhli973/Incubator/blob/master/hijackedemail/Password%20and%20hijacked%20email.ipynb
+- blog: http://www.datasciencecentral.com/profiles/blogs/password-and-hijacked-email
+- github: https://github.com/jhli973/Incubator/blob/master/hijackedemail/Password%20and%20hijacked%20email.ipynb
 
 
 # Deep Learning Tutorial
 
-./DeepLearningBook.pdf
-homepage: http://www.deeplearningbook.org/
-chinese: https://github.com/exacity/deeplearningbook-chinese
+- ./DeepLearningBook.pdf
+- homepage: http://www.deeplearningbook.org/
+- chinese: https://github.com/exacity/deeplearningbook-chinese
 
 
 # How to implenment a Deep Learning System
 Ref to above RNN-Passwords and https://github.com/karpathy/char-rnn which implenmented by lua.
 
 
-## Idea: other sequence to sequence model or neural language model
+## Ideas
+- other sequence to sequence model or neural language model
