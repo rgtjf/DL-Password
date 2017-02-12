@@ -9,8 +9,8 @@
 
 ## RNN-Passwords
 - blog: https://0day.work/using-neural-networks-for-password-cracking/
-- char-rnn
-- https://github.com/gehaxelt/RNN-Passwords
+- char-rnn: https://github.com/karpathy/char-rnn 
+- github: https://github.com/gehaxelt/RNN-Passwords
 
 
 ## Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks
