@@ -26,7 +26,7 @@
 - ./DeepLearningBook.pdf
 - homepage: http://www.deeplearningbook.org/
 - chinese: https://github.com/exacity/deeplearningbook-chinese
-
+- https://github.com/ahangchen/GDLnotes
 
 # How to implenment a Deep Learning System
 Ref to above RNN-Passwords and https://github.com/karpathy/char-rnn which implenmented by lua.
