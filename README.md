@@ -1,5 +1,13 @@
 # DL-Password
 
+## Recent lists
+- 
+- http://www.csdn.net/article/2015-08-28/2825569
+- http://www.csdn.net/article/2015-09-14/2825693
+- http://blog.csdn.net/mydear_11000/article/details/52776295
+- [stanford](http://cs224d.stanford.edu/lecture_notes/LectureNotes4.pdf)
+
+
 ## Machine Learning, Hack Passwords
 - blog: https://medium.com/technology-invention-and-more/machine-learning-ashley-madison-passwords-a45c1702b953#.awagqfpib
 - predict the next words in a sentence (tutorial, tensorflow, word2vec https://www.tensorflow.org/versions/master/tutorials/word2vec/)
